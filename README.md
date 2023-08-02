@@ -13,5 +13,5 @@
 - java 8- WindowBuilder(eclipse)
 ## Autores
 
-| [<img src="[[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/133101799?s=400&u=e9b08cc380e815cf4f929a3f30cb47979d4164f1&v=4)](https://avatars.githubusercontent.com/u/133101799?s=400&u=e9b08cc380e815cf4f929a3f30cb47979d4164f1&v=4)https://avatars.githubusercontent.com/u/133101799?s=400&u=e9b08cc380e815cf4f929a3f30cb47979d4164f1&v=4" width=115><br><sub>Ariel Armel Yance Orozco</sub>]} | 
+| [<img src="https://avatars.githubusercontent.com/u/133101799?s=400&u=e9b08cc380e815cf4f929a3f30cb47979d4164f1&v=4" width=115><br><sub>Ariel Armel Yance Orozco</sub>]} | 
 | :---: |
