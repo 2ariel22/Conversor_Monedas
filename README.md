@@ -1,7 +1,7 @@
 <h1 align="center">Conversor de Monedas </h1>
 ![logo](https://github.com/2ariel22/Conversor_Monedas/assets/133101799/30f4ce39-bdc8-4609-96f8-12f2c5c4fef8)
 <h3 aling="center">En este proyecto desarrolle un Conversor de monedas en java 10 el cual acepta valores Double </h3>
-## :hammer:Funcionalidades del proyecto
+## :hammer:<h4>Funcionalidades del proyecto</h4><br>
 -`Funcionalidad 1`: Conversion de Dolares a todas las moendas disponibles en el programa ![Dolar-Libra]
 -<img src="https://github.com/2ariel22/Conversor_Monedas/assets/133101799/3b27af48-78c1-4051-9b21-72d29851e580" width=450><br>
 - `Funcionalidad 2`: Proceso inverso de cada conversion ![Libra-Dolar]<br>
