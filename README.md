@@ -3,8 +3,8 @@
 <h2 aling="center">En este proyecto creo un Conversor de monedas en java 10 este acepta valores Double </h2>
 ## :hammer:Funcionalidades del proyecto
 -`Funcionalidad 1`: Conversion de Dolares a todas las moendas disponibles en el programa ![Dolar-Libra]
--<img src="https://github.com/2ariel22/Conversor_Monedas/assets/133101799/3b27af48-78c1-4051-9b21-72d29851e580" width=450>
-- `Funcionalidad 2`: Proceso inverso de cada conversion ![Libra-Dolar]
+-<img src="https://github.com/2ariel22/Conversor_Monedas/assets/133101799/3b27af48-78c1-4051-9b21-72d29851e580" width=450><br>
+- `Funcionalidad 2`: Proceso inverso de cada conversion ![Libra-Dolar]<br>
 - <img src="https://github.com/2ariel22/Conversor_Monedas/assets/133101799/648a9798-ec00-423c-a03f-d779920bc964" width=450>
 
 \## 📁 Acceso al proyecto
