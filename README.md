@@ -7,8 +7,8 @@
         <img src="https://github.com/2ariel22/Conversor_Monedas/assets/133101799/3b27af48-78c1-4051-9b21-72d29851e580" width=450>
   </div>
 
-- `Funcionalidad 2`: Proceso inverso de cada conversion ![Libra-Dolar](https://github.com/2ariel22/Conversor_Monedas/assets/133101799/648a9798-ec00-423c-a03f-d779920bc964)
-
+- `Funcionalidad 2`: Proceso inverso de cada conversion ![Libra-Dolar]
+- 
 \## 📁 Acceso al proyecto
 **basta con clonar el repositorio en una carpeta de tu agrado y abrilo con eclipse**
 \## 🛠️ Abre y ejecuta el proyecto
